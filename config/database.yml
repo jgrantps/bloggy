@@ -1,6 +1,5 @@
 #PostgreSQL. Versions 8.2 and up are supported.
 
-
 development:
   adapter: postgresql
   encoding: unicode
@@ -31,3 +30,4 @@ production:
   username: jgrantps
   password: 1234
   timeout: 5000
+  
