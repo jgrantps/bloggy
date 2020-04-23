@@ -27,7 +27,7 @@ production:
   encoding: unicode
   database: bloggy_production
   pool: 5
-  host: https://brickit-backend.herokuapp.com/
+  host: https://bloggy12.herokuapp.com/
   username: jgrantps
   password: 1234
   timeout: 5000
